@@ -1,2 +1,2 @@
 # NakedPayment
-Biometrics Authentication Assignment for us 3
+Biometrics Authentication Assignment for us (Bill, Jake and Charlie).
